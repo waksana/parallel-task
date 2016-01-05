@@ -1,0 +1,24 @@
+{
+  "name": "promise-task-queue",
+  "version": "0.0.1",
+  "description": "task queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waksana/promise-task-queue.git"
+  },
+  "keywords": [
+    "task",
+    "queue",
+    "promise"
+  ],
+  "author": "waksana@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waksana/promise-task-queue/issues"
+  },
+  "homepage": "https://github.com/waksana/promise-task-queue#readme"
+}
