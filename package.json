@@ -2,7 +2,7 @@
   "name": "parallel-task",
   "version": "0.0.1",
   "repository": "waksana/parallel-task",
-  "description": "task queue",
+  "description": "parallel excution with concurrency limit",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
