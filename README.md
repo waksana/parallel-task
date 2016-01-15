@@ -13,7 +13,7 @@ $ npm install parallel-task
 ## Example
 
 ```js
-var parallel = require('parallel');
+var parallel = require('parallel-task');
 
 //a function that returns a promise
 function fn(param) {
