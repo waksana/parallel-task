@@ -1,24 +1,16 @@
 {
-  "name": "promise-task-queue",
+  "name": "parallel-task",
   "version": "0.0.1",
+  "repository": "waksana/parallel-task",
   "description": "task queue",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/waksana/promise-task-queue.git"
+    "test": "node test.js"
   },
   "keywords": [
     "task",
     "queue",
     "promise"
   ],
-  "author": "waksana@qq.com",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/waksana/promise-task-queue/issues"
-  },
-  "homepage": "https://github.com/waksana/promise-task-queue#readme"
+  "license": "MIT"
 }
